@@ -5,8 +5,8 @@
  
  <div align="center">
   <a href="https://github.com/MALEK-FRAIJ/MALEK-FRAIJ.git">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=MALEK-FRAIJ&show_icons=true&theme=great-gatsby"/>
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALEK-FRAIJ&layout=compact&theme=great-gatsby"/> 
+  <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MALEK-FRAIJ&show_icons=true&theme=great-gatsby"/>
+  <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALEK-FRAIJ&layout=compact&theme=great-gatsby"/> 
   
 </div>
 
