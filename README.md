@@ -1,7 +1,9 @@
 ### Hi there, I'm Malek Fraij.
 
-- 🔭 Passionate about technology.
-- 🌱 computer science student.
+- 🔭 Passionate About Technology.
+- 🌱 Computer Science Student.
+- 💻 Full Stack Developer.
+- 👩‍💻 Java Developer.
  
  <div align="center">
   <a href="https://github.com/MALEK-FRAIJ/MALEK-FRAIJ.git">
