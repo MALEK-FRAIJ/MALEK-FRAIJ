@@ -1,9 +1,10 @@
 ## Hi there, I'm Malek Fraij
 
-- 🔭 Passionate About Technology.
-- 🌱 Computer Science Student.
+- 🔭 Interested in Technology.
+- 🚩 Computer Science.
 - 💻 Full Stack Developer.
 - 👩‍💻 Java Developer.
+- ⚡ Problem Solving Skills.
  
 
  ## Git Hub status and used languages
