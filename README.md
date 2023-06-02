@@ -12,8 +12,8 @@
  <div align="center"  style="display: block">
  
   <a href="https://github.com/MALEK-FRAIJ/MALEK-FRAIJ.git">
-  <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MALEK-FRAIJ&show_icons=true&theme=transparent" />
-  <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALEK-FRAIJ&layout=compact&theme=transparent" />
+  <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MALEK-FRAIJ&show_icons=true&theme=gotham" />
+  <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALEK-FRAIJ&layout=compact&theme=gotham" />
    
 </div>
  <br><br><br><br><br><br><br><br>
