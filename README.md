@@ -2,9 +2,10 @@
 
 - 🔭 Interested in Technology.
 - 🚩 Computer Science.
-- 💻 Full Stack Developer.
-- 👩‍💻 Java Developer.
+- 💻 Software Developer.
 - ⚡ Problem Solving Skills.
+- 👩‍💻 Java Developer.
+
  
 
  ## Git Hub status and used languages
